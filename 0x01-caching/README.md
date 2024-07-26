@@ -80,4 +80,3 @@ Class BaseCaching():
 	  raise NotImplementedError("get must be implemented in your cache class")
 ```
 
-### Finally...
